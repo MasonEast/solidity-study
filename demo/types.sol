@@ -36,4 +36,7 @@ contract Primitives {
   int public defaultInt; // 0
   address public defaultAddr; // 0x0000000000000000000000000000000000000000
 
+  address public constant MY_ADDRESS = 0x777788889999AaAAbBbbCcccddDdeeeEfFFfCcCc;
+  uint public constant MY_UINT = 123;
+
 }
